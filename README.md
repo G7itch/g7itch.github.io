@@ -1,9 +1,9 @@
 # Bibliography
 **[1]** [The Editors of Encyclopaedia Britannica Article History], “Complex Number | Britannica”, Mar. 30, 2025. _https://www.britannica.com/science/complex-number_ (accessed Nov. 03, 2025).
 
-**[2]** I. Lankham, A. Schilling, and B. Nachtergaele, “2.1: Deﬁnition of Complex Numbers", Mar. 05, 2021. __https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_%28Schilling_Nachtergaele_and_Lankham%29/02%3A_Introduction_to_Complex_Numbers/2.01%3A_De%EF%AC%81nition_of_Complex_Numbers__ (accessed Nov. 03, 2025).
+**[2]** I. Lankham, A. Schilling, and B. Nachtergaele, “2.1: Deﬁnition of Complex Numbers", Mar. 05, 2021. *https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_%28Schilling_Nachtergaele_and_Lankham%29/02%3A_Introduction_to_Complex_Numbers/2.01%3A_De%EF%AC%81nition_of_Complex_Numbers* (accessed Nov. 03, 2025).
 
-**[3]** Wikipedia Contributors, “Definition of C^2,” Sep. 04, 2024. https://en.wikipedia.org/wiki/Complex_coordinate_space (accessed Nov. 03, 2025).
+**[3]** Wikipedia Contributors, “Definition of C^2,” Sep. 04, 2024. *https://en.wikipedia.org/wiki/Complex_coordinate_space* (accessed Nov. 03, 2025).
 
 **[4]** E. Weisstein, “Argand Diagram,” Nov. 03, 2025. _https://mathworld.wolfram.com/ArgandDiagram.html_ (accessed Nov. 03, 2025).
 
